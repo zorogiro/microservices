@@ -1,0 +1,11 @@
+
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºŠËÕ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐØæÇ
+z
+java:S1149<"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡þÿÿÿÿ
+[
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(ŠçÅ“
+E	java:S106A"+Replace this use of System.out by a logger.(ˆ¶¼†üÿÿÿÿ
+@
+java:S3457_"%String contains no format specifiers.(çß‚ÿùÿÿÿÿ
